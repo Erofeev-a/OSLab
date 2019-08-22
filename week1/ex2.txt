@@ -1,0 +1,45 @@
+man sudo_root
+whoaim
+whoiam
+hostname
+whoami
+touch <week1>
+mkdir week1
+mkdir ~/week1
+cd ~/week1
+cd /usr/bin
+ls
+ls gcc
+ls -r gcc
+cd ~/week1
+ls -r /home/usr/bin gcc
+cd /usr/bin
+ls patch gcc
+ls
+ls > week1.txt
+sudo apt install gcc
+mkdir ~/week1
+cd ~/week1
+sudo apt install gcc
+--fix-missing
+apt-get
+update
+sudo apt install gcc
+apt-get
+gcc --version
+sudo apt install gcc
+sudo apt update
+sudo apt install gcc
+gcc --version
+ls > week1.txt
+ls /user/bin/ [sort -r] ex1.txt
+ls /usr/bin/ [sort -r] ex1.txt
+ls /usr/bin/ [sort -r] > ex1.txt
+ls /usr/bin/ > ex1.txt
+gedit ex1.txt
+ls /usr/bin/ > ex1.txt
+gedit ex1.txt
+sudo apt install gedit
+gedit ex1.txt
+ls /usr/bin/ | sort -r | tail -n number > ex1.txt
+ls /usr/bin/ | sort -r | tail -n > ex1.txt
